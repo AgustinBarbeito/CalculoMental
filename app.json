@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Cálculo Mental",
+    "slug": "mental-math-game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#2F8886"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.university.mentalmath"
+    },
+    "android": {
+      "package": "com.university.mentalmath"
+    }
+  }
+}
